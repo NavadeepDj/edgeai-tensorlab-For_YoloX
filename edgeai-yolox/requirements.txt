@@ -22,7 +22,6 @@ seaborn==0.11.2
 onnx-simplifier==0.4.10
 
 # Extra packages required for 6d pose estimation
-plyfile==0.7.4
 scikit-learn
 PyYAML
 matplotlib
